@@ -1,0 +1,45 @@
+
+
+	[ BUBBLESORT ]
+
+
+
+
+
+Diferenta de rulat de la data: 27.10.2022 20:41:37
+
+Se scrie in fisierul "/home/vboxuser/swift-5.3/work/Sources/output2.txt" in modul [ APPEND ] pentru a vedea timpul de executie ...
+
+Timpul de executie pentru un set random de 2000 numere: 0.035104662 secunde
+
+
+
+Diferenta de rulat de la data: 27.10.2022 20:41:37
+
+Se scrie in fisierul "/home/vboxuser/swift-5.3/work/Sources/output2.txt" in modul [ APPEND ] pentru a vedea timpul de executie ...
+
+Timpul de executie pentru un set random de 5000 numere: 0.191964142 secunde
+
+
+
+Diferenta de rulat de la data: 27.10.2022 20:41:39
+
+Se scrie in fisierul "/home/vboxuser/swift-5.3/work/Sources/output2.txt" in modul [ APPEND ] pentru a vedea timpul de executie ...
+
+Timpul de executie pentru un set random de 15000 numere: 1.644491964 secunde
+
+
+
+Diferenta de rulat de la data: 27.10.2022 20:41:46
+
+Se scrie in fisierul "/home/vboxuser/swift-5.3/work/Sources/output2.txt" in modul [ APPEND ] pentru a vedea timpul de executie ...
+
+Timpul de executie pentru un set random de 30000 numere: 7.08626268 secunde
+
+
+
+Diferenta de rulat de la data: 27.10.2022 20:42:14
+
+Se scrie in fisierul "/home/vboxuser/swift-5.3/work/Sources/output2.txt" in modul [ APPEND ] pentru a vedea timpul de executie ...
+
+Timpul de executie pentru un set random de 60000 numere: 28.261678969 secunde
